@@ -1,0 +1,2 @@
+D:\STUDIA\SEMESTR4\Algorytmy\Ćwiczenia\heapsort\Debug\heapsort.exe
+D:\STUDIA\SEMESTR4\Algorytmy\Ćwiczenia\heapsort\Debug\heapsort.pdb

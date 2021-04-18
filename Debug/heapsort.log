@@ -1,0 +1,7 @@
+﻿  heapsort.cpp
+D:\STUDIA\SEMESTR4\Algorytmy\Ćwiczenia\heapsort\heapsort.cpp(27,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\SEMESTR4\Algorytmy\Ćwiczenia\heapsort\heapsort.cpp(34,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\SEMESTR4\Algorytmy\Ćwiczenia\heapsort\heapsort.cpp(45,16): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\SEMESTR4\Algorytmy\Ćwiczenia\heapsort\heapsort.cpp(53,16): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\STUDIA\SEMESTR4\Algorytmy\Ćwiczenia\heapsort\heapsort.cpp(43,9): warning C4101: "temp": lokalna zmienna, do której nie istnieje odwołanie
+  heapsort.vcxproj -> D:\STUDIA\SEMESTR4\Algorytmy\Ćwiczenia\heapsort\Debug\heapsort.exe
